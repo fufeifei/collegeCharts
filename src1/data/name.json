@@ -1,0 +1,1 @@
+[{"name":"学校名称","ID":"CollegeName"},{"name":"专业大类","ID":"DisciplineCategory"},{"name":"专业类","ID":"SubjectCategory"},{"name":"专业名称","ID":"SubjectName"},{"name":"学制","ID":"SchoolingSystem"},{"name":"年制","ID":"Duration"},{"name":"毕业生","ID":"IsGraduated"},{"name":"在校生","ID":"Student"},{"name":"一年级","ID":"GradeOne"},{"name":"二年级","ID":"GradeTwo"},{"name":"三年级","ID":"GradeThree"}]
