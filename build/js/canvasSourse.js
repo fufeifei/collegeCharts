@@ -33,6 +33,7 @@ $.ajax({
 	url: "./data/output.json",
 	async: true,
 	success: function(dataSourse) {
+		$("#load").remove();
 
 		/*showData 展示表格、下拉框数据*/
 		function showData(id, sourse, IBD) {
